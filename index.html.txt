@@ -4,7 +4,7 @@
     <title>Zaczynam sie bawic gitem</title>
   </head>
   <body>
-	<h1>Alone
+	<h1>Alone Again
 
 by Edgar Allan Poe
 (published 1875)</h1>
