@@ -4,10 +4,10 @@
     <title>Zaczynam sie bawic gitem</title>
   </head>
   <body>
-	<h3>Alone
+	<h1>Alone
 
 by Edgar Allan Poe
-(published 1875)</h3>
+(published 1875)</h1>
 	<p> 
 
 From childhood's hour I have not been
